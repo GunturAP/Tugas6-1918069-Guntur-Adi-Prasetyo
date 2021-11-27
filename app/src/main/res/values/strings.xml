@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TugasWorkManager_1918069</string>
+    <string-array name="daftar_kota">
+        <item>Surabaya</item>
+        <item>Blitar</item>
+        <item>Kediri</item>
+        <item>Malang</item>
+        <item>Bandung</item>
+    </string-array>
+
+</resources>
